@@ -535,6 +535,12 @@ progress {
   }
 }
 
+.audio-embed {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
 .display-5 {
   font-size: calc(1.425rem + 2.1vw);
   font-weight: 300;
